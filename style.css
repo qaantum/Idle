@@ -3,18 +3,18 @@ div{
     text-align: center;
     
 }
-#firstButton{
+#firstButton, #automaticIncrease, #firstParagraph{
     display: inline-block;
     margin: 10px;
 }
-#firstParagraph{
+/* #firstParagraph{
     display: inline-block;
     margin: 10px;
 }
 #automaticIncrease{
     margin: 10px;
     display: inline-block;
-}
+} */
 #upgradeButton{
     margin: 10px;
 }
